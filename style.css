@@ -8,8 +8,6 @@ body {
     background-color: #f3f4f6;
     color: #333;
 }
-
-/* Header */
 header {
     background-color: #1d4ed8;
     color: white;
@@ -34,8 +32,6 @@ nav a {
     text-decoration: none;
     margin: 0 10px;
 }
-
-/* Hero */
 .hero {
     background-color: white;
     text-align: center;
@@ -64,8 +60,6 @@ button {
 button:hover {
     background-color: #1e40af;
 }
-
-/* About */
 .about {
     max-width: 1100px;
     margin: auto;
@@ -119,8 +113,6 @@ button:hover {
 .card h3 {
     color: #2563eb;
 }
-
-/* Contact */
 .contact {
     background-color: white;
     padding: 50px 20px;
@@ -150,16 +142,12 @@ textarea {
     border: 1px solid #ccc;
     border-radius: 5px;
 }
-
-/* Footer */
 footer {
     background-color: #1d4ed8;
     color: white;
     text-align: center;
     padding: 18px;
 }
-
-/* Responsive */
 @media (max-width: 700px) {
 
     nav {
